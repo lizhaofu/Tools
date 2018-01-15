@@ -1,0 +1,3014 @@
+Filename: D:\20161201-20181201 博后研究内容  我国医学人才培养 我国医学教育\第一章\第一章 数据\1900-1910.vpt
+File Date: Apr 05 2017 10:16
+Source Raw File Filename: D:\20161201-20181201 博后研究内容  我国医学人才培养 我国医学教育\第一章\第一章 数据\med education.txt
+Exported On: Thu Nov 30 17:02:11 2017
+Field: Title
+Selection:
+Exported 94 Out of 94 Records
+
+
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education.
+SO LANCET
+LA English
+DT Article
+CR 1909, LANCET          0130, P332
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1459
+EP 1460
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000480
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1224
+EP 1225
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000403
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education.
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1459
+EP 1460
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000480
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education.
+SO LANCET
+LA English
+DT Article
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1616
+EP 1618
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000542
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education.
+SO LANCET
+LA English
+DT Article
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1694
+EP 1696
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000574
+ER
+
+-----
+
+PT J
+AU Keith, A
+AF Keith, A
+TI The University of London and medical education
+SO LANCET
+LA English
+DT Article
+CR LANCET          0504, P1235
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 1316
+EP 1317
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500494
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The University of London and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 1235
+EP 1236
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500463
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The University of London and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 1235
+EP 1236
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500463
+ER
+
+-----
+
+PT J
+AU Keith, A
+AF Keith, A
+TI The University of London and medical education
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 1316
+EP 1317
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500494
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The University of London and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 1317
+EP 1317
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500495
+ER
+
+-----
+
+PT J
+AU Owen, I
+AF Owen, I
+TI Annual oration on the future of London Medical Education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 1399
+EP 1402
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900555
+ER
+
+-----
+
+PT J
+AU Owen, I
+AF Owen, I
+TI Annual oration on the future of London Medical Education.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+C1 Univ London, Fac Med, London, UK.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1904
+VL 1904
+BP 1177
+EP 1180
+PN 1
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V38MR
+UT WOS:000202601700459
+ER
+
+-----
+
+PT J
+AU Owen, I
+AF Owen, I
+TI Annual oration on the future of London Medical Education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 1399
+EP 1402
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900555
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States and Canada.
+SO NATURE
+LA English
+DT Article
+CR Flexner A, 1910, CARNEGIE FOUNDATION
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JUL-OCT
+PY 1910
+VL 84
+BP 332
+EP 333
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7845
+UT WOS:000188270900165
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States and Canada.
+SO NATURE
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JUL-OCT
+PY 1910
+VL 84
+BP 332
+EP 333
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7845
+UT WOS:000188270900165
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States and Canada
+SO SCIENCE
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1910
+VL 32
+IS 1
+BP 41
+EP 50
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V27NJ
+UT WOS:000201859900009
+ER
+
+-----
+
+PT J
+AU Musser, JH
+AF Musser, JH
+TI Some aspects of medical education
+SO SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1904
+VL 20
+BP 230
+EP 237
+DI 10.1126/science.20.503.230
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V36KL
+UT WOS:000202460700035
+PM 17797887
+ER
+
+-----
+
+PT J
+AU Musser, JH
+AF Musser, JH
+TI Some aspects of medical education
+SO SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1904
+VL 20
+BP 230
+EP 237
+DI 10.1126/science.20.503.230
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V36KL
+UT WOS:000202460700035
+PM 17797887
+ER
+
+-----
+
+PT J
+AU Musser, JH
+AF Musser, JH
+TI Some aspects of medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JAN-JUN
+PY 1904
+VL 150
+BP 633
+EP 641
+PG 9
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V31TF
+UT WOS:000202145500122
+ER
+
+-----
+
+PT J
+AU Allbutt, TC
+AF Allbutt, TC
+TI An address on Medical Education in London
+SO LANCET
+LA English
+DT Article
+CR 1902, BRIT MED J      0927
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 2
+BP 1081
+EP 1086
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9639
+UT WOS:000188899200397
+ER
+
+-----
+
+PT J
+AU Allbutt, TC
+AF Allbutt, TC
+TI An address on Medical Education in London
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 2
+BP 1081
+EP 1086
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9639
+UT WOS:000188899200397
+ER
+
+-----
+
+PT J
+AU Alcock, NH
+AF Alcock, NH
+TI An inaugural address on the theory and practice of medical education
+SO LANCET
+LA English
+DT Article
+CR SPRIGGS SS, 1905, MED PUBLIC
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1906
+VL 2
+BP 921
+EP 925
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9641
+UT WOS:000188899400343
+ER
+
+-----
+
+PT J
+AU Alcock, NH
+AF Alcock, NH
+TI An inaugural address on the theory and practice of medical education
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1906
+VL 2
+BP 921
+EP 925
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9641
+UT WOS:000188899400343
+ER
+
+-----
+
+PT J
+AU Minot, CS
+AF Minot, CS
+TI Certain ideals of medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1909
+VL 53
+BP 502
+EP 508
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24YP
+UT WOS:000201686300082
+ER
+
+-----
+
+PT J
+AU Minot, CS
+AF Minot, CS
+TI Certain ideals of medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1909
+VL 53
+BP 502
+EP 508
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24YP
+UT WOS:000201686300082
+ER
+
+-----
+
+PT J
+AU Whitehead, W
+AF Whitehead, W
+TI Manchester's early influence on the advancement of medicine and medical
+   education
+SO LANCET
+LA English
+DT Article
+CR CARBUTT E, 1834, CLIN LECT MANCHESTER
+   GIFFORD, 1805, MASSINGERS WORKS
+   1826, LANCET, V11, P215
+   1798, ILLUSTRATIONS STERNE
+   1826, LANCET, V11, P247
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1902
+VL 2
+BP 261
+EP 267
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9633
+UT WOS:000188898600120
+ER
+
+-----
+
+PT J
+AU Whitehead, W
+AF Whitehead, W
+TI Manchester's early influence on the advancement of medicine and medical
+   education
+SO LANCET
+LA English
+DT Article
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1902
+VL 2
+BP 261
+EP 267
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9633
+UT WOS:000188898600120
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical inspection and the annual report of the Board of Education
+SO LANCET
+LA English
+DT Article
+CR 1908, LANCET          0222, P585
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 1
+BP 926
+EP 926
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9646
+UT WOS:000188899900369
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical inspection and the annual report of the Board of Education
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 1
+BP 926
+EP 926
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9646
+UT WOS:000188899900369
+ER
+
+-----
+
+PT J
+AU Brown, GVI
+AF Brown, GVI
+TI Should the dental student be educated independently of general medicine
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1661
+EP 1663
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400317
+ER
+
+-----
+
+PT J
+AU Brown, GVI
+AF Brown, GVI
+TI Should the dental student be educated independently of general medicine
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1661
+EP 1663
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400317
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education. IV.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1531
+EP 1532
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000508
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education. IV.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1531
+EP 1532
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000508
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI SOME SUGGESTIONS REGARDING MEDICAL EDUCATION.
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JUL 18
+PY 1901
+VL 145
+IS 3
+BP 24
+EP 26
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V06II
+UT WOS:000207186900009
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI SOME SUGGESTIONS REGARDING MEDICAL EDUCATION.
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JUL 18
+PY 1901
+VL 145
+IS 3
+BP 24
+EP 26
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V06II
+UT WOS:000207186900009
+ER
+
+-----
+
+PT J
+AU Christopher, WS
+AF Christopher, WS
+TI The aim of medical education and its relation to research work, by
+   medical students .
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Univ Illinois, Med Coll, Coll Phys & Surg Chicago, Chicago, IL USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1901
+VL 37
+BP 736
+EP 738
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24NX
+UT WOS:000201658500133
+ER
+
+-----
+
+PT J
+AU Christopher, WS
+AF Christopher, WS
+TI The aim of medical education and its relation to research work, by
+   medical students .
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Univ Illinois, Med Coll, Coll Phys & Surg Chicago, Chicago, IL USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1901
+VL 37
+BP 736
+EP 738
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24NX
+UT WOS:000201658500133
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The Board of Education and the medical inspection of school children
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 2
+BP 1547
+EP 1548
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9643
+UT WOS:000188899600500
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The Board of Education and the medical inspection of school children
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 2
+BP 1547
+EP 1548
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9643
+UT WOS:000188899600500
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The future of medical education in London
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 1435
+EP 1436
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900566
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The future of medical education in London
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 1435
+EP 1436
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900566
+ER
+
+-----
+
+PT J
+AU Bogue, EA
+AF Bogue, EA
+TI The growth of educational requirements and opportunities in stomatology
+   - Chairman's address before the section on stomatology at the fifty
+   ninth annual session of the American Medical Association 1908
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1908
+VL 51
+BP 7
+EP 9
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V26TW
+UT WOS:000201809200002
+ER
+
+-----
+
+PT J
+AU Bogue, EA
+AF Bogue, EA
+TI The growth of educational requirements and opportunities in stomatology
+   - Chairman's address before the section on stomatology at the fifty
+   ninth annual session of the American Medical Association 1908
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1908
+VL 51
+BP 7
+EP 9
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V26TW
+UT WOS:000201809200002
+ER
+
+-----
+
+PT J
+AU Shaw, LE
+AF Shaw, LE
+TI The true aim of medical education and the evil of the examination fetich
+SO LANCET
+LA English
+DT Article
+CR ALLBUTT C, COMPOSITION SCI PAPE
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 561
+EP 565
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500234
+ER
+
+-----
+
+PT J
+AU Shaw, LE
+AF Shaw, LE
+TI The true aim of medical education and the evil of the examination fetich
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 561
+EP 565
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500234
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI University College, London - A chapter in medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 747
+EP 748
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500287
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI University College, London - A chapter in medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 747
+EP 748
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500287
+ER
+
+-----
+
+PT J
+AU Burrell, HL
+AF Burrell, HL
+TI A new duty of the medical profession - The education of the public in
+   scientific medicine
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUN
+PY 1908
+VL 50
+IS APR
+BP 1873
+EP 1876
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KH
+UT WOS:000201649100150
+ER
+
+-----
+
+PT J
+AU Murray, GR
+AF Murray, GR
+TI An address on medical education.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 977
+EP 982
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000311
+ER
+
+-----
+
+PT J
+AU Marsh, FH
+AF Marsh, FH
+TI An address on the education of the student of medicine.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1910
+VL 2
+BP 1119
+EP 1122
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9648
+UT WOS:000188900100224
+ER
+
+-----
+
+PT J
+AU Morris, H
+AF Morris, H
+TI An address on the financial relations between the London hospitals and
+   thier affiliated medical schools; and the bearing of these relations on
+   medical education.
+SO LANCET
+LA English
+DT Article
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 1
+BP 1313
+EP 1319
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9638
+UT WOS:000188899100582
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Biology medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 671
+EP 672
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500264
+ER
+
+-----
+
+PT J
+AU Davis, NS
+AF Davis, NS
+TI Dental and oral surgery - Its relation to the genital field of medicine
+   and surgery and the true professional status or rank of the property
+   educated practitioner of dental and oral surgery
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1519
+EP 1522
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400291
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Elementary medical education.
+SO NATURE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD NOV-APR
+PY 1902
+VL 65
+BP 203
+EP 204
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7968
+UT WOS:000188312700083
+ER
+
+-----
+
+PT J
+AU Harvey, PF
+AF Harvey, PF
+TI Evolution of medical education in the army
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1907
+VL 49
+BP 573
+EP 575
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V38QE
+UT WOS:000202610800106
+ER
+
+-----
+
+PT J
+AU Holmes, LE
+AF Holmes, LE
+TI Hospital experience necessary for licensure - A suggestion in medical
+   education.
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1904
+VL 42
+BP 645
+EP 646
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24OB
+UT WOS:000201658900103
+ER
+
+-----
+
+PT J
+AU Steves, AM
+AF Steves, AM
+TI Is a medical education a necessary qualification for dental practice
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1600
+EP 1601
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400303
+ER
+
+-----
+
+PT J
+AU Andrews, RR
+AF Andrews, RR
+TI Is medical education a necessary qualification for dental practice
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1664
+EP 1665
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400319
+ER
+
+-----
+
+PT J
+AU Jones, JR
+AF Jones, JR
+TI Medical education.
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1901
+VL 37
+BP 742
+EP 743
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24NX
+UT WOS:000201658500136
+ER
+
+-----
+
+PT J
+AU Franklin, GC
+AF Franklin, GC
+TI Medical education - Past, present, and future
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 2
+BP 267
+EP 270
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9639
+UT WOS:000188899200103
+ER
+
+-----
+
+PT J
+AU Motter, MG
+AF Motter, MG
+TI Medical education - With special reference to the subject of physiology
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1905
+VL 44
+BP 1731
+EP 1735
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KE
+UT WOS:000201648800264
+ER
+
+-----
+
+PT J
+AU Simmons, GH
+AF Simmons, GH
+TI Medical education and preliminary requirements.
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 3
+TC 5
+Z9 5
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1904
+VL 42
+BP 1205
+EP 1210
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24OB
+UT WOS:000201658900196
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and some of its problems
+SO NATURE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD MAY-OCT
+PY 1907
+VL 76
+BP 592
+EP 593
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7974
+UT WOS:000188313300248
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and the examination system
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 1
+BP 597
+EP 598
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9642
+UT WOS:000188899500243
+ER
+
+-----
+
+PT J
+AU Welis, WA
+AF Welis, WA
+TI Medical education and the state
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1902
+VL 38
+BP 861
+EP 867
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24NY
+UT WOS:000201658600146
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in France
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1908
+VL 2
+BP 1828
+EP 1829
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9645
+UT WOS:000188899800533
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in London
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 2
+BP 1265
+EP 1266
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9639
+UT WOS:000188899200474
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in South Africa
+SO LANCET
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1905
+VL 2
+BP 901
+EP 903
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9639
+UT WOS:000188899200303
+ER
+
+-----
+
+PT J
+AU Bevan, AD
+AF Bevan, AD
+TI Medical education in the united states, the need of a uniform standard
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1908
+VL 51
+BP 566
+EP 571
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V26TW
+UT WOS:000201809200082
+ER
+
+-----
+
+PT J
+AU Walsh, JJ
+AF Walsh, JJ
+TI Old-time medical education
+SO BULLETIN OF THE JOHNS HOPKINS HOSPITAL
+LA English
+DT Article
+C1 Fordham Univ, Sch Med, New York, NY USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+J9 B JOHNS HOPKINS HOSP
+PY 1909
+VL 20
+BP 210
+EP 216
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7581
+UT WOS:000188164200031
+ER
+
+-----
+
+PT J
+AU Waller, AD
+AF Waller, AD
+TI On the centralisation of medical education by the University of London
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1901
+VL 1901
+BP 1066
+EP 1069
+PN 1
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V37UD
+UT WOS:000202553500295
+ER
+
+-----
+
+PT J
+AU Bardeen, CR
+AF Bardeen, CR
+TI Report of the sub-committee on anatomy to the Council on Medical
+   Education of the American Medical Association April, 1909
+SO ANATOMICAL RECORD
+LA English
+DT Article
+NR 69
+TC 5
+Z9 5
+U1 0
+U2 2
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+J9 ANAT REC
+JI Anat. Rec.
+PD JUL
+PY 1909
+VL 3
+IS 7
+BP 415
+EP 439
+DI 10.1002/ar.1090030705
+PG 25
+WC Anatomy & Morphology
+SC Anatomy & Morphology
+GA V5460
+UT WOS:000187644000004
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Simplification of materia medica examinations - Report of the Committees
+   on Materia Medica of the National Confederation of State Medical
+   Examining and Licensing Boards and of the Council on Medical Education
+   of the American Medical Association
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1910
+VL 55
+BP 1302
+EP 1303
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24YR
+UT WOS:000201686500280
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some consideration of medical education. II
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1301
+EP 1303
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000426
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education. I.
+SO LANCET
+LA English
+DT Article
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1232
+EP 1233
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000404
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education. VII.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1766
+EP 1767
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000602
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Some considerations of medical education. VIII
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 1935
+EP 1936
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000667
+ER
+
+-----
+
+PT J
+AU Ernst, HC
+AF Ernst, HC
+TI Some fermentations in medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+C1 Harvard Univ, Med Sch, Cambridge, MA USA.
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JAN-JUN
+PY 1904
+VL 150
+BP 661
+EP 667
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V31TF
+UT WOS:000202145500126
+ER
+
+-----
+
+PT J
+AU Vaughan, VC
+AF Vaughan, VC
+TI Some remarks on the present status of medical education in the United
+   States
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1903
+VL 40
+BP 1117
+EP 1120
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24OA
+UT WOS:000201658800208
+ER
+
+-----
+
+PT J
+AU Shattuci, FC
+AF Shattuci, FC
+TI Some thoughts on medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 2
+Z9 2
+U1 0
+U2 2
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JAN-JUN
+PY 1900
+VL 142
+BP 529
+EP 534
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V36ZH
+UT WOS:000202499300121
+ER
+
+-----
+
+PT J
+AU Whitla, W
+AF Whitla, W
+TI The Belfast Medical School: A survey of the state of medical education:
+   Necessary reforms and the Queen's University of Belfast.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 2
+BP 275
+EP 281
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9647
+UT WOS:000188900000123
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The cost of medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1900
+VL 2
+BP 813
+EP 814
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9629
+UT WOS:000188898200262
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The general medical council and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 1577
+EP 1578
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900616
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The gift to University College, London, and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 1
+BP 880
+EP 881
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9636
+UT WOS:000188898900374
+ER
+
+-----
+
+PT J
+AU Denny, FP
+AF Denny, FP
+TI The need of instruction and experience in nursing as part of medical
+   education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JAN-JUN
+PY 1910
+VL 162
+BP 596
+EP 598
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V38QM
+UT WOS:000202611600080
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The needs of medical education in London and elsewhere
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1908
+VL 2
+BP 246
+EP 247
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9645
+UT WOS:000188899800078
+ER
+
+-----
+
+PT J
+AU Hill, WB
+AF Hill, WB
+TI The practical value of a medical education to the student of dentistry
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Milwaukee Med Coll, Med Dept, Milwaukee, WI USA.
+   Milwaukee Med Coll, Dent Dept, Milwaukee, WI USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1900
+VL 34
+BP 1663
+EP 1664
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24MS
+UT WOS:000201655400318
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The preliminary scientific education of the medical student
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1908
+VL 2
+BP 487
+EP 488
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9645
+UT WOS:000188899800151
+ER
+
+-----
+
+PT J
+AU Shambaugh, GE
+AF Shambaugh, GE
+TI The preparation of the specialist, a problem in medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1907
+VL 49
+BP 540
+EP 543
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V38QE
+UT WOS:000202610800099
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The report of the education medical officer of the London County Council
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1909
+VL 1
+BP 1615
+EP 1616
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9646
+UT WOS:000188899900633
+ER
+
+-----
+
+PT J
+AU Dodson, JM
+AF Dodson, JM
+TI The research idea and methods in medical education and practice
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1905
+VL 45
+BP 81
+EP 87
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KF
+UT WOS:000201648900020
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Universities and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1906
+VL 2
+BP 1080
+EP 1081
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9641
+UT WOS:000188899400396
+ER
+
+-----
+
+PT J
+AU Powell, RD
+AF Powell, RD
+TI University College and some points in medical education - Delivered at
+   the medical school of University College Hospital on Oct 2nd 1907
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1907
+VL 2
+BP 945
+EP 946
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9643
+UT WOS:000188899600287
+ER
+
+-----
+
+PT J
+AU Owen, E
+AF Owen, E
+TI William Hey; Medical education."
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1904
+VL 2
+BP 1123
+EP 1129
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9637
+UT WOS:000188899000438
+ER

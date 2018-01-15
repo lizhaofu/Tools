@@ -1,0 +1,3700 @@
+Filename: D:\20161201-20181201 博后研究内容  我国医学人才培养 我国医学教育\第一章\第一章 数据\1921-1930.vpt
+File Date: Apr 05 2017 10:16
+Source Raw File Filename: D:\20161201-20181201 博后研究内容  我国医学人才培养 我国医学教育\第一章\第一章 数据\med education.txt
+Exported On: Thu Nov 30 17:03:00 2017
+Field: Title
+Selection:
+Exported 113 Out of 113 Records
+
+
+
+-----
+
+PT J
+AU Balfour, A
+AF Balfour, A
+TI Education of medical officers for service in the tropics.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1928
+VL 1
+BP 63
+EP 67
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9585
+UT WOS:000188726200029
+ER
+
+-----
+
+PT J
+AU Balfour, A
+AF Balfour, A
+TI Education of medical officers for service in the tropics.
+SO LANCET
+LA English
+DT Article
+CR BYAM, PRACTICE MED TROPICS
+   1928, LANCET          0114, P63
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1928
+VL 1
+BP 117
+EP 122
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9585
+UT WOS:000188726200059
+ER
+
+-----
+
+PT J
+AU Balfour, A
+AF Balfour, A
+TI Education of medical officers for service in the tropics.
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1928
+VL 1
+BP 63
+EP 67
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9585
+UT WOS:000188726200029
+ER
+
+-----
+
+PT J
+AU Balfour, A
+AF Balfour, A
+TI Education of medical officers for service in the tropics.
+SO LANCET
+LA English
+DT Article
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1928
+VL 1
+BP 117
+EP 122
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9585
+UT WOS:000188726200059
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The new era in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1923
+VL 1923
+BP 354
+EP 355
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WX
+UT WOS:000200532700189
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The new era in medical education.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1925
+VL 1925
+BP 408
+EP 409
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XB
+UT WOS:000200533100208
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The new era in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1924
+VL 1924
+BP 402
+EP 403
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WZ
+UT WOS:000200532900228
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The new era in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1923
+VL 1923
+BP 354
+EP 355
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WX
+UT WOS:000200532700189
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in China
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1927
+VL 1927
+BP 798
+EP 798
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XJ
+UT WOS:000200533900620
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in China
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1927
+VL 1927
+BP 798
+EP 798
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XJ
+UT WOS:000200533900620
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in China
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1921
+VL 1
+BP 392
+EP 392
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9570
+UT WOS:000188724700176
+ER
+
+-----
+
+PT J
+AU Gantt, WH
+AF Gantt, WH
+TI A review of medical education in Soviet Russia
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1924
+VL 1924
+BP 1055
+EP 1058
+PN 1
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WH
+UT WOS:000200531100761
+ER
+
+-----
+
+PT J
+AU Gantt, WH
+AF Gantt, WH
+TI A review of medical education in Soviet Russia
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1924
+VL 1924
+BP 1055
+EP 1058
+PN 1
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WH
+UT WOS:000200531100761
+ER
+
+-----
+
+PT J
+AU Clarke, WC
+AF Clarke, WC
+TI Analysis of methods of modern medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Columbia Univ, Dept Surg, Coll Phys & Surg, New York, NY USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1923
+VL 80
+BP 1195
+EP 1200
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZB
+UT WOS:000201687500210
+ER
+
+-----
+
+PT J
+AU Clarke, WC
+AF Clarke, WC
+TI Analysis of methods of modern medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Columbia Univ, Dept Surg, Coll Phys & Surg, New York, NY USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1923
+VL 80
+BP 1195
+EP 1200
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZB
+UT WOS:000201687500210
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Education Committees and the salaries of medical officers.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1928
+VL 1928
+IS 1
+BP 952
+EP 952
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04SZ
+UT WOS:000200319700744
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Education Committees and the salaries of medical officers.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1928
+VL 1928
+IS 1
+BP 952
+EP 952
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04SZ
+UT WOS:000200319700744
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Education officers and school medical officers
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1930
+VL 1930
+BP 657
+EP 657
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V05WJ
+UT WOS:000200396100517
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Education officers and school medical officers
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1930
+VL 1930
+BP 657
+EP 657
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V05WJ
+UT WOS:000200396100517
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and practice in America.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1927
+VL 1927
+BP 979
+EP 980
+PN 1
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XH
+UT WOS:000200533700667
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and practice in America.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1927
+VL 1927
+BP 979
+EP 980
+PN 1
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XH
+UT WOS:000200533700667
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and the Rockefeller Foundation
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1921
+VL 2
+BP 615
+EP 615
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9571
+UT WOS:000188724800344
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education and the Rockefeller Foundation
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1921
+VL 2
+BP 615
+EP 615
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9571
+UT WOS:000188724800344
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in America.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+CR 1929, METHODS PROBLEMS MED
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1930
+VL 1930
+BP 874
+EP 874
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V05WJ
+UT WOS:000200396100673
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in America.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1930
+VL 1930
+BP 874
+EP 874
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V05WJ
+UT WOS:000200396100673
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States and Canada
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400023
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States and Canada
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400023
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Methods and Problems of Medical Education.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1930
+VL 1930
+BP 1016
+EP 1016
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V05WJ
+UT WOS:000200396100785
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Methods and problems of medical education.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1927
+VL 1927
+BP 806
+EP 806
+PN 1
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XH
+UT WOS:000200533700546
+ER
+
+-----
+
+PT J
+AU Buzzard, EF
+AF Buzzard, EF
+TI Neurology and its bearing on medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1924
+VL 2
+BP 789
+EP 792
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9577
+UT WOS:000188725400319
+ER
+
+-----
+
+PT J
+AU Buzzard, EF
+AF Buzzard, EF
+TI Neurology and its bearing on medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1924
+VL 2
+BP 789
+EP 792
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9577
+UT WOS:000188725400319
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Post-graduate medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1930
+VL 1
+BP 869
+EP 870
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9589
+UT WOS:000188726600486
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Post-graduate medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1930
+VL 1
+BP 869
+EP 870
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9589
+UT WOS:000188726600486
+ER
+
+-----
+
+PT J
+AU Weed, LH
+AF Weed, LH
+TI Some tenets of medical education
+SO BULLETIN OF THE JOHNS HOPKINS HOSPITAL
+LA English
+DT Article
+C1 Johns Hopkins Univ, Baltimore, MD USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+J9 B JOHNS HOPKINS HOSP
+PY 1929
+VL 45
+BP 203
+EP 214
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7356
+UT WOS:000188139600012
+ER
+
+-----
+
+PT J
+AU Weed, LH
+AF Weed, LH
+TI Some tenets of medical education
+SO BULLETIN OF THE JOHNS HOPKINS HOSPITAL
+LA English
+DT Article
+C1 Johns Hopkins Univ, Baltimore, MD USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+J9 B JOHNS HOPKINS HOSP
+PY 1929
+VL 45
+BP 203
+EP 214
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7356
+UT WOS:000188139600012
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Stock-taking in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+CR 1918, SOME NOTES MED ED EN, P129
+   1924, J AM MED ASS CHICAGO, V82, P833
+   1923, RECENT ADV MED ED EN, P195
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1924
+VL 1924
+BP 790
+EP 791
+PN 1
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WH
+UT WOS:000200531100565
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Stock-taking in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1924
+VL 1924
+BP 790
+EP 791
+PN 1
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WH
+UT WOS:000200531100565
+ER
+
+-----
+
+PT J
+AU Painter, CF
+AF Painter, CF
+TI The interest of the public in medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JUL-DEC
+PY 1921
+VL 185
+BP 427
+EP 432
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V31ZU
+UT WOS:000202162600094
+ER
+
+-----
+
+PT J
+AU Painter, CF
+AF Painter, CF
+TI The interest of the public in medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JUL-DEC
+PY 1921
+VL 185
+BP 427
+EP 432
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V31ZU
+UT WOS:000202162600094
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The methods of medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+CR *ROCK FDN DIV MED, 1924, METHODS PROBLEMS MED
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1924
+VL 1924
+BP 1014
+EP 1015
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WZ
+UT WOS:000200532900572
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The methods of medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1924
+VL 1924
+BP 1014
+EP 1015
+PN 2
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WZ
+UT WOS:000200532900572
+ER
+
+-----
+
+PT J
+AU Todd, TW
+AF Todd, TW
+TI The role of roentgenology in medical education
+SO AMERICAN JOURNAL OF ROENTGENOLOGY AND RADIUM THERAPY
+LA English
+DT Article
+C1 Western Reserve Univ, Ilamann Museum, Cleveland, OH USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER ROENTGEN RAY SOC
+PI RESTON
+PA 1891 PRESTON WHITE DR, SUBSCRIPTION FULFILLMENT, RESTON, VA 22091 USA
+SN 0092-5632
+J9 AM J ROENTGENOL RADI
+JI Am. J. Roentgenol. Radium Ther.
+PD JUL-DEC
+PY 1926
+VL 16
+BP 355
+EP 359
+PG 5
+WC Radiology, Nuclear Medicine & Medical Imaging
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA V24PC
+UT WOS:000201661600032
+ER
+
+-----
+
+PT J
+AU Todd, TW
+AF Todd, TW
+TI The role of roentgenology in medical education
+SO AMERICAN JOURNAL OF ROENTGENOLOGY AND RADIUM THERAPY
+LA English
+DT Article
+C1 Western Reserve Univ, Ilamann Museum, Cleveland, OH USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER ROENTGEN RAY SOC
+PI RESTON
+PA 1891 PRESTON WHITE DR, SUBSCRIPTION FULFILLMENT, RESTON, VA 22091 USA
+SN 0092-5632
+J9 AM J ROENTGENOL RADI
+JI Am. J. Roentgenol. Radium Ther.
+PD JUL-DEC
+PY 1926
+VL 16
+BP 355
+EP 359
+PG 5
+WC Radiology, Nuclear Medicine & Medical Imaging
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA V24PC
+UT WOS:000201661600032
+ER
+
+-----
+
+PT J
+AU Elting, AW
+AF Elting, AW
+TI The small hospital-medical school in American medical education - Is
+   there a place for it?
+SO ANNALS OF SURGERY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0003-4932
+J9 ANN SURG
+JI Ann. Surg.
+PD JUL-DEC
+PY 1929
+VL 90
+BP 488
+EP 495
+DI 10.1097/00000658-192910000-00003
+PG 8
+WC Surgery
+SC Surgery
+GA V21QN
+UT WOS:000201462500049
+PM 17866170
+ER
+
+-----
+
+PT J
+AU Elting, AW
+AF Elting, AW
+TI The small hospital-medical school in American medical education - Is
+   there a place for it?
+SO ANNALS OF SURGERY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0003-4932
+J9 ANN SURG
+JI Ann. Surg.
+PD JUL-DEC
+PY 1929
+VL 90
+BP 488
+EP 495
+DI 10.1097/00000658-192910000-00003
+PG 8
+WC Surgery
+SC Surgery
+GA V21QN
+UT WOS:000201462500049
+PM 17866170
+ER
+
+-----
+
+PT J
+AU Masson, JC
+AF Masson, JC
+TI The trend of present-day medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Mayo Clin, Div Surg, Rochester, MN USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1930
+VL 95
+BP 765
+EP 766
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZK
+UT WOS:000201688400258
+ER
+
+-----
+
+PT J
+AU Masson, JC
+AF Masson, JC
+TI The trend of present-day medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Mayo Clin, Div Surg, Rochester, MN USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1930
+VL 95
+BP 765
+EP 766
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZK
+UT WOS:000201688400258
+ER
+
+-----
+
+PT J
+AU McLean, FC
+AF McLean, FC
+TI The university and medical education
+SO SCIENCE
+LA English
+DT Article
+C1 Univ Chicago, Chicago, IL USA.
+CR Billroth T., 1924, MED SCI GERMAN U
+   Carlson AJ, 1927, SCIENCE, V65, P125, DOI 10.1126/science.65.1675.125
+   Cole R, 1920, Science, V51, P329, DOI 10.1126/science.51.1318.329
+   FLEXNER A, 1925, MED ED
+   MILL JS, SYSTEM LOGIC, pCH12
+   MILL JS, SYSTEM LOGIC, pCH1
+   NAUNYN SB, 1925, ERRINERUNGEN GEDANKE, P190
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JAN-JUN
+PY 1927
+VL 65
+BP 511
+EP 514
+DI 10.1126/science.65.1691.511
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V26AM
+UT WOS:000201758800088
+PM 17843688
+ER
+
+-----
+
+PT J
+AU McLean, FC
+AF McLean, FC
+TI The university and medical education
+SO SCIENCE
+LA English
+DT Article
+C1 Univ Chicago, Chicago, IL USA.
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JAN-JUN
+PY 1927
+VL 65
+BP 511
+EP 514
+DI 10.1126/science.65.1691.511
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V26AM
+UT WOS:000201758800088
+PM 17843688
+ER
+
+-----
+
+PT J
+AU Guttmacher, MS
+AF Guttmacher, MS
+TI The views of Adam Smith on medical education
+SO BULLETIN OF THE JOHNS HOPKINS HOSPITAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+J9 B JOHNS HOPKINS HOSP
+PY 1930
+VL 47
+BP 164
+EP 175
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7174
+UT WOS:000188104300011
+ER
+
+-----
+
+PT J
+AU Guttmacher, MS
+AF Guttmacher, MS
+TI The views of Adam Smith on medical education
+SO BULLETIN OF THE JOHNS HOPKINS HOSPITAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+J9 B JOHNS HOPKINS HOSP
+PY 1930
+VL 47
+BP 164
+EP 175
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7174
+UT WOS:000188104300011
+ER
+
+-----
+
+PT J
+AU Welch, SW
+AF Welch, SW
+TI Training in sociology and public health an essential in medical
+   education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1922
+VL 79
+BP 342
+EP 343
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZA
+UT WOS:000201687400066
+ER
+
+-----
+
+PT J
+AU Welch, SW
+AF Welch, SW
+TI Training in sociology and public health an essential in medical
+   education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JUL-DEC
+PY 1922
+VL 79
+BP 342
+EP 343
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZA
+UT WOS:000201687400066
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI A french view of early medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1927
+VL 1927
+BP 225
+EP 225
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XJ
+UT WOS:000200533900150
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI A survey of medical education in Europe
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1930
+VL 1
+BP 1412
+EP 1413
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9589
+UT WOS:000188726600791
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Adenoids and enlarged tonsils - Interim report by the Board of
+   Education's medical committee
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+BP 355
+EP 356
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400160
+ER
+
+-----
+
+PT J
+AU Reichert
+AF Reichert
+TI Affairs of condition and of occupation. The best path of the medicine
+   study, in particular the education of the hands-on doctor.
+SO DEUTSCHE MEDIZINISCHE WOCHENSCHRIFT
+LA German
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU GEORG THIEME VERLAG KG
+PI STUTTGART
+PA RUDIGERSTR 14, D-70469 STUTTGART, GERMANY
+SN 0012-0472
+J9 DEUT MED WOCHENSCHR
+JI Dtsch. Med. Wochenschr.
+PY 1928
+VL 54
+BP 404
+EP 408
+PN 1
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V21WJ
+UT WOS:000201477700162
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI American ideals in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1929
+VL 1929
+IS 1
+BP 161
+EP 162
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04TD
+UT WOS:000200320100152
+ER
+
+-----
+
+PT J
+AU Macphail, A
+AF Macphail, A
+TI An address on American methods in medical education
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1927
+VL 1927
+BP 373
+EP 380
+PN 2
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XJ
+UT WOS:000200533900281
+ER
+
+-----
+
+PT J
+AU Boudreau, JC
+AF Boudreau, James C.
+TI Clay as a medium through which educational ideals may be effectively
+   presented
+SO JOURNAL OF THE AMERICAN CERAMIC SOCIETY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 0002-7820
+J9 J AM CERAM SOC
+JI J. Am. Ceram. Soc.
+PD JUN
+PY 1923
+VL 6
+IS 6
+BP 763
+EP 769
+DI 10.1111/j.1151-2916.1923.tb19934.x
+PG 7
+WC Materials Science, Ceramics
+SC Materials Science
+GA V42JK
+UT WOS:000202863600009
+ER
+
+-----
+
+PT J
+AU Bevan, AD
+AF Bevan, AD
+TI Cooperation in medical education and medical service - Functions of the
+   medical profession, of the university and or the public
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 10
+Z9 10
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1928
+VL 90
+BP 1173
+EP 1177
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KU
+UT WOS:000201650400521
+ER
+
+-----
+
+PT J
+AU Bardeen, CR
+AF Bardeen, CR
+TI Coordination in medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1925
+VL 84
+BP 1107
+EP 1111
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KQ
+UT WOS:000201650000199
+ER
+
+-----
+
+PT J
+AU Rappleye, WC
+AF Rappleye, WC
+TI Current problems of medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Commiss Med Educ, New Haven, CT USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1930
+VL 94
+BP 915
+EP 917
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZJ
+UT WOS:000201688300431
+ER
+
+-----
+
+PT J
+AU Holmes, SJ
+AF Holmes, SJ
+TI Education in relation to public health and medical practise
+SO SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1921
+VL 54
+BP 503
+EP 508
+DI 10.1126/science.54.1404.503
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V29GK
+UT WOS:000201977000070
+PM 17739317
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI General Council of Medical Education and Registration - Summer session,
+   1921
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PY 1924
+VL 1924
+SU S
+BP 269
+EP 275
+PN 1
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WI
+UT WOS:000200531200030
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI General Council of Medical Education and Registration - Summer session,
+   1924
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PY 1924
+VL 1924
+SU S
+BP 266
+EP 268
+PN 1
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WI
+UT WOS:000200531200028
+ER
+
+-----
+
+PT J
+AU Eycleshymer, AC
+AF Eycleshymer, A. C.
+TI Individualism in medical education
+SO SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD APR 28
+PY 1922
+VL 55
+IS 1426
+BP 437
+EP 445
+DI 10.1126/science.55.1426.437
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V42TN
+UT WOS:000202889900001
+PM 17809293
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical aspects of educational problems.
+SO BMJ-BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1756-1833
+J9 BMJ-BRIT MED J
+JI BMJ-British Medical Journal
+PD JAN-JUN
+PY 1928
+VL 1928
+IS 1
+BP 62
+EP 62
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04SZ
+UT WOS:000200319700045
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical co-education in London.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1928
+VL 1928
+IS 1
+BP 561
+EP 562
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04SZ
+UT WOS:000200319700445
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education.
+SO NATURE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JUL-DEC
+PY 1922
+VL 110
+BP 683
+EP 683
+PG 1
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7791
+UT WOS:000188230200352
+ER
+
+-----
+
+PT J
+AU Herringham, WP
+AF Herringham, WP
+TI Medical education - A review of some modern methods
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1923
+VL 1923
+BP 575
+EP 577
+PN 2
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07WX
+UT WOS:000200532700286
+ER
+
+-----
+
+PT J
+AU Rushmore, S
+AF Rushmore, S
+TI Medical education and culture
+SO SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JAN-JUN
+PY 1924
+VL 59
+BP 569
+EP 571
+DI 10.1126/science.59.1539.569
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V29GN
+UT WOS:000201977300144
+PM 17843134
+ER
+
+-----
+
+PT J
+AU Walker, N
+AF Walker, N
+TI Medical education and licensure in the United States of America
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1929
+VL 1929
+IS 2
+BP 373
+EP 379
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04ON
+UT WOS:000200308100197
+ER
+
+-----
+
+PT J
+AU Pusey, WA
+AF Pusey, WA
+TI Medical education and medical service I. The situation
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 9
+TC 20
+Z9 20
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1925
+VL 84
+BP 281
+EP +
+PG 18
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KQ
+UT WOS:000201650000063
+ER
+
+-----
+
+PT J
+AU Mayo, WJ
+AF Mayo, WJ
+TI Medical education for the general practitioner
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 5
+Z9 6
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1927
+VL 88
+BP 1377
+EP 1379
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZF
+UT WOS:000201687900649
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in Cairo.
+SO LANCET
+LA English
+DT Article
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1924
+VL 1
+BP 657
+EP 657
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9576
+UT WOS:000188725300277
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in England.
+SO NATURE
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JAN-JUN
+PY 1923
+VL 111
+BP 765
+EP 766
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V7977
+UT WOS:000188313600419
+ER
+
+-----
+
+PT J
+AU Walker, N
+AF Walker, N
+TI Medical education in Great Britain and Ireland
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1928
+VL 90
+BP 1181
+EP 1188
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KU
+UT WOS:000201650400523
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in South Wales
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1928
+VL 1928
+IS 2
+BP 1187
+EP 1187
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04TB
+UT WOS:000200319900812
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the Sudan.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1927
+VL 1927
+BP 297
+EP 297
+PN 1
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XH
+UT WOS:000200533700198
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the Transvaal
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1927
+VL 1927
+BP 648
+EP 648
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XJ
+UT WOS:000200533900495
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical Education in the United States
+SO AMERICAN JOURNAL OF NURSING
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0002-936X
+J9 AM J NURS
+JI Am. J. Nurs.
+PD OCT
+PY 1929
+VL 29
+IS 10
+BP 1208
+EP 1208
+PG 1
+WC Nursing
+SC Nursing
+GA V51UF
+UT WOS:000203500100014
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the United States I - The medical school of Harvard
+   University
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400024
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in the USA
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1927
+VL 1
+BP 610
+EP 611
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9583
+UT WOS:000188726000257
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education in US A
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 2
+BP 562
+EP 562
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9588
+UT WOS:000188726500178
+ER
+
+-----
+
+PT J
+AU Beveridge, W
+AF Beveridge, W
+TI Medical education of women undergraduates - Report of the University of
+   London Committee
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+BP 251
+EP 254
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400125
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Medical education of women. Report of the University of London committee
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN-JUN
+PY 1929
+VL 1929
+IS 1
+BP 217
+EP 218
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V04TD
+UT WOS:000200320100202
+ER
+
+-----
+
+PT J
+AU Flexner, A
+AF Flexner, A
+TI Medical education, 1909-1924
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 6
+Z9 6
+U1 2
+U2 5
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1924
+VL 82
+BP 833
+EP 838
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KO
+UT WOS:000201649800157
+ER
+
+-----
+
+PT J
+AU Witherspoon, JA
+AF Witherspoon, JA
+TI Medical education, past and present
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1923
+VL 80
+BP 1191
+EP 1194
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZB
+UT WOS:000201687500209
+ER
+
+-----
+
+PT J
+AU Young, GS
+AF Young, GS
+TI On the trend of medical education and medical service
+SO CANADIAN MEDICAL ASSOCIATION JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CANADIAN MEDICAL ASSOCIATION
+PI OTTAWA
+PA 1867 ALTA VISTA DR, OTTAWA, ONTARIO K1G 3Y6, CANADA
+SN 0820-3946
+J9 CAN MED ASSOC J
+JI Can. Med. Assoc. J.
+PY 1925
+VL 15
+BP 685
+EP 688
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V37UR
+UT WOS:000202554900103
+PM 20315431
+ER
+
+-----
+
+PT J
+AU Waring, HJ
+AF Waring, HJ
+TI Post-graduate medical education in England. Delivered before the
+   Manchester Medical Society
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1925
+VL 1925
+BP 1022
+EP 1026
+PN 2
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XB
+UT WOS:000200533100616
+ER
+
+-----
+
+PT J
+AU Colwell, NP
+AF Colwell, NP
+TI Present needs of medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1924
+VL 82
+BP 838
+EP 840
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24KO
+UT WOS:000201649800158
+ER
+
+-----
+
+PT J
+AU Bridges, JW
+AF Bridges, JW
+TI Psychology in medical education
+SO CANADIAN MEDICAL ASSOCIATION JOURNAL
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CANADIAN MEDICAL ASSOCIATION
+PI OTTAWA
+PA 1867 ALTA VISTA DR, OTTAWA, ONTARIO K1G 3Y6, CANADA
+SN 0820-3946
+J9 CAN MED ASSOC J
+JI Can. Med. Assoc. J.
+PY 1928
+VL 18
+BP 382
+EP 387
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V32OP
+UT WOS:000202201100066
+PM 20316781
+ER
+
+-----
+
+PT J
+AU Christian, HA
+AF Christian, HA
+TI Some problems of medical investigation and medical education
+SO SCIENCE
+LA English
+DT Article
+C1 Peter Bent Brigham Hosp, Boston, MA USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1925
+VL 62
+BP 551
+EP 554
+DI 10.1126/science.62.1616.551
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V29GQ
+UT WOS:000201977600182
+PM 17744122
+ER
+
+-----
+
+PT J
+AU Stockard, CR
+AF Stockard, CR
+TI Standardization versus medical education.
+SO SCIENCE
+LA English
+DT Article
+C1 Cornell Univ, Med Coll, Ithaca, NY USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL-DEC
+PY 1930
+VL 72
+BP 409
+EP 413
+DI 10.1126/science.72.1869.409
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V29GS
+UT WOS:000201977800097
+PM 17814889
+ER
+
+-----
+
+PT J
+AU Gordon, CA
+AF Gordon, CA
+TI Taking medical education to the practitioner
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1927
+VL 88
+BP 1373
+EP 1375
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZF
+UT WOS:000201687900647
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The "talking film" in medical education.
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JUL-DEC
+PY 1925
+VL 1925
+BP 1021
+EP 1021
+PN 2
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V07XB
+UT WOS:000200533100614
+ER
+
+-----
+
+PT J
+AU Lord, JR
+AF Lord, J. R.
+TI The Cinematograph in Medical Education
+SO JOURNAL OF MENTAL SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU HEADLEY BROTHERS LTD
+PI ASHFORD
+PA INVICTA PRESS, ASHFORD TN24 8HH, KENT, ENGLAND
+J9 J MENT SCI
+JI J. Mental Sci.
+PD APR
+PY 1928
+VL 74
+IS 305
+BP 289
+EP 290
+PG 2
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA V84RI
+UT WOS:000205723400013
+ER
+
+-----
+
+PT J
+AU Thayer, WS
+AF Thayer, WS
+TI The dispensary as a factor in medical education and as a diagnostic
+   clinic
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1922
+VL 78
+BP 1431
+EP 1435
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V35HY
+UT WOS:000202386600246
+ER
+
+-----
+
+PT J
+AU Gibson, CL
+AF Gibson, CL
+TI The educational value of the follow-up - A report of 14 years - From the
+   first surgical division (Cornell Medical) of the New York Hospital
+SO ANNALS OF SURGERY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0003-4932
+J9 ANN SURG
+JI Ann. Surg.
+PD JUL-DEC
+PY 1928
+VL 88
+BP 772
+EP 793
+PG 22
+WC Surgery
+SC Surgery
+GA V21XU
+UT WOS:000201481400071
+PM 17865986
+ER
+
+-----
+
+PT J
+AU Fishbein, M
+AF Fishbein, M
+TI The function and future of the American Medical Association in medical
+   education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1930
+VL 94
+BP 911
+EP 915
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZJ
+UT WOS:000201688300430
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The General Council of Medical Education and Registration
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1921
+VL 1
+BP 1152
+EP 1153
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9570
+UT WOS:000188724700466
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The health of the school child. Annual report of the Chief Medical
+   Officer to the Board of Education for 1927
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+BP 96
+EP 98
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400053
+ER
+
+-----
+
+PT J
+AU Colwell, NP
+AF Colwell, NP
+TI The hospitals function in medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1927
+VL 88
+BP 0781
+EP 0784
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZF
+UT WOS:000201687900367
+ER
+
+-----
+
+PT J
+AU Kayser, C
+AF Kayser, C
+TI The media at the service of the national hygiene education association
+SO DEUTSCHE MEDIZINISCHE WOCHENSCHRIFT
+LA German
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU GEORG THIEME VERLAG KG
+PI STUTTGART
+PA RUDIGERSTR 14, D-70469 STUTTGART, GERMANY
+SN 0012-0472
+J9 DEUT MED WOCHENSCHR
+JI Dtsch. Med. Wochenschr.
+PY 1929
+VL 55
+BP 491
+EP 491
+PN 1
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V21WL
+UT WOS:000201477900186
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The medical education of women in London
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1929
+VL 1
+BP 241
+EP 241
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9587
+UT WOS:000188726400121
+ER
+
+-----
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI The Organization of Medical Education in Psychiatry and Neurology at the
+   Dutch Universities, with Special Reference to the Neuro-Psychiatric
+   Clinic at Utrecht University
+SO JOURNAL OF MENTAL SCIENCE
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU HEADLEY BROTHERS LTD
+PI ASHFORD
+PA INVICTA PRESS, ASHFORD TN24 8HH, KENT, ENGLAND
+J9 J MENT SCI
+JI J. Mental Sci.
+PD APR
+PY 1924
+VL 70
+IS 289
+BP 179
+EP 198
+PG 20
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA V84SS
+UT WOS:000205727000001
+ER
+
+-----
+
+PT J
+AU Haythorn, SR
+AF Haythorn, SR
+TI The problem of preventive medicine in practice and in medical education
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+C1 Univ Pittsburgh, Sch Med, Pittsburgh, PA USA.
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1923
+VL 80
+BP 0885
+EP 0890
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZB
+UT WOS:000201687500150
+ER
+
+-----
+
+PT J
+AU Edsall, DL
+AF Edsall, DL
+TI The product of medical education
+SO BOSTON MEDICAL AND SURGICAL JOURNAL
+LA English
+DT Article
+C1 Harvard Univ, Med Sch, Cambridge, MA USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0096-6762
+J9 BOSTON MED SURG J
+JI Boston Med. Surg. J.
+PD JUL-DEC
+PY 1924
+VL 191
+BP 283
+EP 294
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V32MB
+UT WOS:000202194500038
+ER
+
+-----
+
+PT J
+AU Wilbur, RL
+AF Wilbur, RL
+TI The relationship of medical education to the cost of medical care
+SO JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60610 USA
+SN 0002-9955
+J9 J AMER MED ASSOC
+JI J. Am. Med. Assoc.
+PD JAN-JUN
+PY 1929
+VL 92
+BP 1410
+EP 1412
+PG 3
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V24ZH
+UT WOS:000201688100629
+ER
+
+-----
+
+PT J
+AU Todd, TW
+AF Todd, TW
+TI The role of roentgenology in medical education II Observations on the
+   alimentary tract of the medical student
+SO AMERICAN JOURNAL OF ROENTGENOLOGY AND RADIUM THERAPY
+LA English
+DT Article
+C1 Western Reserve Univ, Ilamann Museum, Cleveland, OH USA.
+NR 6
+TC 5
+Z9 5
+U1 0
+U2 0
+PU AMER ROENTGEN RAY SOC
+PI RESTON
+PA 1891 PRESTON WHITE DR, SUBSCRIPTION FULFILLMENT, RESTON, VA 22091 USA
+SN 0092-5632
+J9 AM J ROENTGENOL RADI
+JI Am. J. Roentgenol. Radium Ther.
+PD JAN-JUN
+PY 1927
+VL 17
+BP 305
+EP 315
+PG 11
+WC Radiology, Nuclear Medicine & Medical Imaging
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA V24PD
+UT WOS:000201661700021
+ER
+
+-----
+
+PT J
+AU Haberling, W
+AF Haberling, W
+TI The sort of education in the history of medicine.
+SO DEUTSCHE MEDIZINISCHE WOCHENSCHRIFT
+LA German
+DT Article
+CR DIEPGEN P, 1920, M KL
+   DIEPGEN P, 1920, FORTSCH MED
+   MEYERSTEINEG T, 1920, D W, P158
+   SUDHOFF K, 1920, JAHRESK ARZTL FORTBI
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU GEORG THIEME VERLAG KG
+PI STUTTGART
+PA RUDIGERSTR 14, D-70469 STUTTGART, GERMANY
+SN 0012-0472
+J9 DEUT MED WOCHENSCHR
+JI Dtsch. Med. Wochenschr.
+PY 1922
+VL 48
+BP 823
+EP 824
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V21VC
+UT WOS:000201474400424
+ER
+
+-----
+
+PT J
+AU Bradford, JR
+AF Bradford, JR
+TI University College, London, and medical education
+SO LANCET
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PY 1927
+VL 1
+BP 1093
+EP 1097
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V9583
+UT WOS:000188726000451
+ER
